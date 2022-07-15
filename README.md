@@ -1,2 +1,2 @@
-# Projeto-Android
- Repositório destinado para o Projeto Android do curso em vídeo
+# Project-Android
+ Repository intended for the Android Project of the Curso em Vídeo guided by teacher Gustavo Guanabara
